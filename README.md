@@ -8,7 +8,7 @@ This GitHub is a leaky abstraction of my (mostly healthy) obsessions with tech, 
 
 ### Favourite Projects
 
-I love all projects equally (even the trash ones), but these are my favourite:
+I love all projects equally, but these are my favourites:
 - [React Rail](https://github.com/JeeZeh/react-irish-rail) (www.reactrail.com)
   - A self-hosted React frontend (with PWA support) for the Irish Rail timetable API
 - [YouTube Playlist Autosub Explorer](https://github.com/JeeZeh/youtube-playlist-autosub-explorer)
