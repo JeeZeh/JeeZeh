@@ -2,9 +2,9 @@
 
 Hi!
 
-I'm a software engineer with Amazon (Dublin) working on high-volume data lake and graph technologies in AWS, powering service resiliency and HVE readiness for the Amazon Retail website.
+I'm a Software Engineer at Amazon Dublin, working on a high-volume data lake implementation, real-time event streaming, and graph databases to help our teams meet Amazon's high bar for resiliency.
 
-This GitHub is a leaky abstraction of my (mostly healthy) obsessions with tech, music, languages and all things creative. If you want to talk about my work, or my side-projects, please reach out over on [Twitter](https://twitter.com/JeeZeh) or [Threads](https://www.threads.net/@jesse_ashmore).
+This GitHub is a leaky abstraction of my (mostly healthy) obsessions with tech, music, languages and all things creative. If you want to talk about my work, or my side-projects, please reach out at [Bluesky](https://bsky.app/profile/jesseash.bsky.social) or stalk me at [jesse.ie](https://jesse.ie).
 
 ### Favourite Projects
 
